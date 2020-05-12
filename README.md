@@ -1,4 +1,4 @@
-#JB_K-M_chip
+JB_K-M_chip
 
 ##This is a repository to analyze RNA-seq data from Justin's K-M mutants
 
