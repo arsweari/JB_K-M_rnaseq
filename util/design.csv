@@ -1,0 +1,7 @@
+sample,fastq_1,fastq_2
+WT_rep1,SRR8598952_1.fastq.gz,SRR8598952_2.fastq.gz
+WT_rep2,SRR8598953_1.fastq.gz,SRR8598953_2.fastq.gz
+K9M_rep1,SRR8598954_1.fastq.gz,SRR8598954_2.fastq.gz
+K9M_rep2,SRR8598955_1.fastq.gz,SRR8598955_2.fastq.gz
+K36M_rep1,SRR8598956_1.fastq.gz,SRR8598956_2.fastq.gz
+K36M_rep2,SRR8598957_1.fastq.gz,SRR8598957_2.fastq.gz
