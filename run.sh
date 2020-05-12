@@ -19,6 +19,8 @@ nextflow run nf-core/rnaseq -r 1.4.2 \
 -profile singularity \
 --reads '/scratch/Users/alsw5948/JB_K-M/JB_K-M_rnaseq_analysis/fastq/*_{1,2}.fastq.gz' \ 
 --genome NCBIM37 \
+--fasta /scratch/Users/alsw5948/JB_K-M/JB_K-M_rnaseq_analysis/JB_K-M_rnaseq/util/NCBIM37.genome.fa \
+--gtf /scratch/Users/alsw5948/JB_K-M/JB_K-M_rnaseq_analysis/JB_K-M_rnaseq/util/gencode.vM1.annotation.gtf \
 --email alsw5948@colorado.edu \
 --email_on_fail alsw5948@colorado.edu
 -resume \
